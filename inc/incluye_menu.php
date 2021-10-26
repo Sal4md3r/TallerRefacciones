@@ -25,6 +25,7 @@
                         <li><a href="#">Agregar una sucursal</a></li>
                         <li class="divider"></li>
                         <li><a href="#">Gestionar Proveedores</a></li>
+                        <li><a href="ver_marcas.php">Consultar Marcas</a></li>
                     </ul>
                 </li>
                  
