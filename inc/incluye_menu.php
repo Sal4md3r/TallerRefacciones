@@ -21,7 +21,7 @@
                  <li class="dropdown">
                     <a data-toggle="dropdown" class="dropdown-toggle" href="#">Proveedores<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="form_Proveedores.php">Agregar un Proveedor</a></li>
+                        <li><a href="proveedor_registrar.php">Agregar un Proveedor</a></li>
                         <li><a href="#">Agregar una sucursal</a></li>
                         <li class="divider"></li>
                         <li><a href="#">Gestionar Proveedores</a></li>
