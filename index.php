@@ -32,6 +32,17 @@
                         </div>
                     <?php endif ?>
                 <?php endif ?>
+                <?php if (isset($_GET['registroRefaccionExito'])): ?>
+                    <?php if ($_GET['registroRefaccionExito']="true"): ?>
+                        <div class="alert alert-success" role="alert">
+                            Registro de refaccion insertado con exito!!
+                        </div>
+                    <?php else : ?>
+                        <div class="alert alert-warning" role="alert">
+                            Hubo un error al insertar el registro de refaccion:c
+                        </div>
+                    <?php endif ?>
+                <?php endif ?>
 
             </div>
         </div>
